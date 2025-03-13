@@ -29,5 +29,13 @@
         justify-content: center;
         width: 100%;
         margin-right: 0px;
+        background-color: white;
+    }
+    .bannerSection{
+        display: none;
+    }
+    .orderBanner{
+        flex-direction: column;
+        padding: 10px;
     }
 }
