@@ -59,4 +59,13 @@
     .Categories  li{
         flex-basis: 48%;
     }
+
+    .footer-mid-row3{
+        padding: 0px 10px;
+    }
+
+    .footer-mid-row2{
+        gap: 20px;
+        flex-direction: column;
+    }
 }
